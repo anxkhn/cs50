@@ -7,7 +7,3 @@ CS50x, awarded on December 26, 2022
 
 
 ![CS50x](https://user-images.githubusercontent.com/83116240/211557987-95fcff45-f9de-42ec-801e-9cc1f69efb80.png)
-
-
-
-###### Note : Eariler commits were made under the username ak-magnificent
